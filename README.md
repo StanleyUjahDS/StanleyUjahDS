@@ -55,6 +55,7 @@ financial services.
 - [Builders Oasis](https://github.com/StanleyUjahDS/builders_oasis) — Flutter learning-platform prototype
 - [Professional portfolio](https://github.com/StanleyUjahDS/portfolio)
 - [Academic portfolio](https://github.com/StanleyUjahDS/phdportfolio)
+- [Project portfolio map](PROJECT_PORTFOLIO.md) — project areas and recommended presentation order
 
 ## Technology
 
