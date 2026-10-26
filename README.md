@@ -1,54 +1,68 @@
 # Stanley Ujah
 
-Applied researcher and software engineer working across blockchain systems,
-data science, machine learning, and decentralised applications.
+Founder and lead developer building applied blockchain, data-science, and
+decentralised software systems.
 
-## Current focus
+I combine an MSc in Data Science with production experience across Flutter,
+Node.js, PostgreSQL, Solidity, EVM networks, cloud infrastructure, and
+machine-learning workflows.
 
-- Security, scalability, governance, and trust in decentralised systems
-- Financial systems, DeFi, digital identity, and verifiable trust
-- Machine learning for financial-market analysis
-- Production engineering for mobile, backend, and Web3 platforms
+## Research direction
 
-## Selected work
+Applied and experimental research in blockchain and decentralised systems,
+with emphasis on security, scalability, governance, trust, financial systems,
+DeFi, and digital identity.
 
-### Griot Network
+## Production systems
 
-Founder and Lead Developer of a live Flutter social platform combining
-messaging, communities, Campfires, calls, reputation, non-custodial wallets,
-subscriptions, tipping, and blockchain payments.
+### [Griot Network](https://griot.network) · live product
+
+Founder and Lead Developer of a cross-platform social and blockchain platform
+combining messaging, groups, channels, Campfires, calls, reputation,
+non-custodial wallets, subscriptions, tipping, and blockchain payments.
 
 - 11,000+ registered accounts
+- 52+ paying Plus subscribers
 - Available on [Google Play](https://play.google.com/store/apps/details?id=com.griotcowrie.griot_cowrie)
   and the [Apple App Store](https://apps.apple.com/gb/app/griot/id6809563025)
-- Repository: [cowrie_griot](https://github.com/StanleyUjahDS/cowrie_griot)
+- [Flutter client repository](https://github.com/StanleyUjahDS/cowrie_griot)
 
-### Cowrie Protocol and HBADG
+### [Cowrie Protocol](https://cowrieprotocol.com) · ecosystem
 
-Founder and Lead Developer of the Cowrie ecosystem. Designed and deployed the
-HBADG BEP-20 token on BNB Smart Chain and built supporting EVM wallet, tipping,
-payment, rewards, and transaction infrastructure.
+Founder and Lead Developer of the ecosystem supporting Griot and HBADG.
+Designed and deployed the HBADG BEP-20 token on BNB Smart Chain and built
+supporting EVM wallet, tipping, payment, rewards, and transaction infrastructure.
 
-- Token contract: `0x5d72717Ab33F38504935960A1D8603276a76511c`
-- Website: [cowrieprotocol.com](https://cowrieprotocol.com)
-- Repository: [cowrie-protocol](https://github.com/StanleyUjahDS/cowrie-protocol)
+- Contract: `0x5d72717Ab33F38504935960A1D8603276a76511c`
+- [Protocol repository](https://github.com/StanleyUjahDS/cowrie-protocol)
 
-### MSc Data Science research
+## Research and academic projects
 
-Applied machine-learning and statistical methods to S&P 500 data in an
-investment-banking context, comparing traditional statistical approaches with
-machine-learning models for stock-market prediction.
+### [MSc stock-market prediction](https://github.com/StanleyUjahDS/phdportfolio)
 
-- Academic portfolio: [phdportfolio](https://github.com/StanleyUjahDS/phdportfolio)
-- MSc project: [ChainEquity](https://github.com/StanleyUjahDS/ChainEquity)
+Applied statistical and machine-learning methods to S&P 500 data in an
+investment-banking context, comparing traditional time-series approaches with
+machine-learning models.
+
+### [ChainEquity](https://github.com/StanleyUjahDS/ChainEquity)
+
+Collaborative MSc enterprise project exploring equity tokenisation, transparent
+investment workflows, SME capital raising, and blockchain applications in
+financial services.
+
+## Supporting work
+
+- [Builders Oasis](https://github.com/StanleyUjahDS/builders_oasis) — Flutter learning-platform prototype
+- [Professional portfolio](https://github.com/StanleyUjahDS/portfolio)
+- [Academic portfolio](https://github.com/StanleyUjahDS/phdportfolio)
 
 ## Technology
 
-`Python` · `SQL` · `MongoDB` · `Dart` · `Flutter` · `Node.js` · `Express` ·
-`PostgreSQL` · `Solidity` · `EVM` · `AWS` · `Docker` · `Firebase` · `Git`
+`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `SQL` · `MongoDB` · `Dart`
+· `Flutter` · `Node.js` · `Express` · `PostgreSQL` · `Solidity` · `EVM` ·
+`AWS` · `Docker` · `Firebase` · `Git`
 
-## Links
+## Connect
 
-- Portfolio: https://cowrieprotocol.com
 - LinkedIn: https://www.linkedin.com/in/stanley-ujah-385ba235
-- Griot: https://griot.network
+- Email: StanleyujahDS@gmail.com
