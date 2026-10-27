@@ -50,6 +50,22 @@ Collaborative MSc enterprise project exploring equity tokenisation, transparent
 investment workflows, SME capital raising, and blockchain applications in
 financial services.
 
+### [S&P 500 Forecasting Lab](https://github.com/StanleyUjahDS/snp500-forecasting-lab)
+
+Leakage-aware financial machine-learning experiments with chronological
+evaluation, rolling features, and reproducible scikit-learn baselines.
+
+### [Credit Risk Modelling](https://github.com/StanleyUjahDS/credit-risk-modeling)
+
+An interpretable credit-risk pipeline using public OpenML data, preprocessing
+pipelines, logistic regression, and evaluation practices suitable for regulated
+financial settings.
+
+### [Notification Delivery Analytics](https://github.com/StanleyUjahDS/griot-notification-analytics)
+
+Privacy-safe synthetic product analytics for notification delivery, display,
+open, and end-to-end funnel performance.
+
 ## Supporting work
 
 - [Builders Oasis](https://github.com/StanleyUjahDS/builders_oasis) — Flutter learning-platform prototype
