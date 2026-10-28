@@ -81,5 +81,5 @@ open, and end-to-end funnel performance.
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/stanley-ujah-385ba235
+- LinkedIn: https://www.linkedin.com/in/stanley-ujah-385ba235a/
 - Email: StanleyujahDS@gmail.com
